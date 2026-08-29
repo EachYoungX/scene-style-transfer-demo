@@ -1,0 +1,11 @@
+torch==2.5.1
+torchvision==0.20.1
+diffusers==0.35.2
+transformers==4.57.1
+accelerate==1.14.0
+safetensors==0.8.0
+peft==0.19.1
+opencv-python-headless==4.10.0.84
+Pillow==11.3.0
+numpy==1.26.4
+gradio==5.50.0

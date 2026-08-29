@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+sst_demo_env/
+.gradio/
+models/*
+!models/README.md
+outputs/*
+!outputs/.gitkeep
